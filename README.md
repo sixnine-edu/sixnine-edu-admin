@@ -1,5 +1,10 @@
 # sixnine-edu-admin
 ## 69教育平台管理端
+### 系统功能
+![image](https://user-images.githubusercontent.com/19547692/126502664-982e221e-758f-4f6d-aacb-16a221125604.png)
+
+
+### 部分功能
 
 ![image](https://user-images.githubusercontent.com/19547692/126495098-ac0ac7f6-c04d-4f6e-ad9a-631b0bdc29c3.png)
 
